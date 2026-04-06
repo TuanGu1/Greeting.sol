@@ -8,3 +8,4 @@ contract Greeting {
         return "Hello Blockchain!";
     }
 }
+Add new feature
