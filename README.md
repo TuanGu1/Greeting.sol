@@ -10,3 +10,4 @@ contract Greeting {
 }
 Add new feature
 Remove unused code
+Improve error handling
