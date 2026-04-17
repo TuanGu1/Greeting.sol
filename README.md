@@ -12,3 +12,4 @@ Add new feature
 Remove unused code
 Improve error handling
 Optimize gas usage
+Add input checks
