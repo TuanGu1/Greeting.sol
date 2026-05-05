@@ -13,3 +13,4 @@ Remove unused code
 Improve error handling
 Optimize gas usage
 Add input checks
+Simplify logic flow
